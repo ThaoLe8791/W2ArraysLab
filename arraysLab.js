@@ -199,3 +199,5 @@ for (let i=0; i<inputArray.length;i++){
     }
 }
 console.log(indexes);
+
+//Done!
